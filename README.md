@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Full Stack**  
   
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React, Strapi, Git**  
+- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React, Git**  
   
 - 📫 How to reach me **carlos.gonzalez923@gmail.com**  
   
