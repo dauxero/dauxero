@@ -11,6 +11,6 @@
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dauxero&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="dauxero" /></p>  
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dauxero&show_icons=true&locale=en" alt="dauxero" /></p>  
+ 
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dauxero&" alt="dauxero" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dauxero&theme=dark&hide" alt="dauxero" /></p>
